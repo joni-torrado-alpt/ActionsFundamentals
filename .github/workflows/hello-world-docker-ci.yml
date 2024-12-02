@@ -1,4 +1,4 @@
-name: "Hellow World Docker CI"
+name: "Hello World Docker CI"
 on: 
   push:
     branches: [main]
