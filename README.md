@@ -1,4 +1,4 @@
-# GitHub Actions Fundamentals are Faster!!
+# GitHub Actions Fundamentals!
 
 Repo for the `GitHub Actions Fundamentals` training.
 
