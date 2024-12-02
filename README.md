@@ -1,4 +1,4 @@
-# GitHub Actions Fundamentals are NICE
+# GitHub Actions Fundamentals
 
 Repo for the `GitHub Actions Fundamentals` training.
 
